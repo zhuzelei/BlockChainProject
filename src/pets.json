@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone",
+    "picture": "images/phone.png",
+    "age": 7500,
+    "location": "Smart phone produced by APPLE"
+  },
+  {
+    "id": 1,
+    "name": "系列童话书",
+    "picture": "images/book.png",
+    "age": 50,
+    "location": "值得一读的经典故事"
+  },
+  {
+    "id": 2,
+    "name": "山药片",
+    "picture": "images/chips.png",
+    "age": 10,
+    "location": "襄阳手工山药膨化零食"
+  },
+  {
+    "id": 3,
+    "name": "指甲剪",
+    "picture": "images/clipper.png",
+    "age": 9.9,
+    "location": "全套修甲设备"
+  }
+  
+]
